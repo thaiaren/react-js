@@ -1,5 +1,5 @@
 import React from 'react';
-import MyComponent from './components/MyComponent';
+import MyComponent from './components/reactClass/MyComponent';
 import './App.css';
 // import ProductList from './components/product/productList.js';
 // import Main from './components/tictactoe/Main';
